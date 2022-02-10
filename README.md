@@ -1,10 +1,10 @@
-### Hi there, I am Dwi Marstya Wibowo 👋
+# Hi there, I am Dwi Marstya Wibowo 👋
 
-:mechanic: I am Software Developer with experience in [PHP](https://www.php.net), [ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet), [MySQL](https://www.mysql.com/), [SQL Server](https://www.microsoft.com/en-ca/sql-server)
+## :mechanic: I am Software Developer with experience in [PHP](https://www.php.net), [ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet), [MySQL](https://www.mysql.com/), [SQL Server](https://www.microsoft.com/en-ca/sql-server)
 
-:star2: I am Open Source enthusiasts
+## :star2: I am Open Source enthusiasts
 
-:house_with_garden: Based in Bekasi, Indonesia
+## :house_with_garden: Based in Bekasi, Indonesia
 
 [![](https://user-images.githubusercontent.com/13568817/153515937-f11d7171-51d1-4934-9516-cd44d65dfab4.png)](https://t.me/dwimwibowo)
 
